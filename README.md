@@ -3,7 +3,6 @@ Hi, I'm **Soheil Mirjalili**! 👋
 
 I'm a passionate **Embedded Systems Engineer** from Yazd, Iran, with a deep interest in digital electronics and embedded systems development.
 
-
 ## 💼 Work Experience
 - R&D Department Supervisor
 - STM32 microcontroller programming and development
@@ -17,42 +16,37 @@ I'm a passionate **Embedded Systems Engineer** from Yazd, Iran, with a deep inte
 ### **Microcontrollers & Platforms**
 ![STM32](https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-- STM32 (G0, F1, H7, WB series)
-- ESP32
 
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- Embedded C (Intermediate)
-- C++ (Basic)
-- Python (Basic)
+
 
 ### **Frameworks & RTOS**
-- FreeRTOS
-- ESP-IDF
-- STM32 HAL
-- LVGL (GUI Library)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32 HAL](https://img.shields.io/badge/STM32_HAL-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![LVGL](https://img.shields.io/badge/LVGL-333333?style=for-the-badge&logo=lvgl&logoColor=white)
 
-### **Communication Protocols**
-- I2C, SPI, I2S, UART, QSPI, RS485
-- HTTP, WebSocket, REST APIs
-- GSM/GPRS Modules
 
 ### **Hardware Design**
 ![Altium](https://img.shields.io/badge/Altium-000000?style=for-the-badge&logo=altium&logoColor=white)
-- Altium Designer (Intermediate)
-- Digital & Analog Circuit Design
-- Sensor Integration (RTD, MEMS Accelerometers, etc.)
 
 ### **Tools & Software**
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-- MATLAB (Intermediate)
-- IAR Embedded Workbench
-- OpenCV
-- Inventor, LaTeX, Adobe Photoshop, Adobe XD
-- VHDL, Verilog (Basic)
-- HTML & CSS (Basic)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![IAR](https://img.shields.io/badge/IAR-Embedded_Workbench-000000?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soheilmirjalili&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
@@ -71,10 +65,4 @@ I'm a passionate **Embedded Systems Engineer** from Yazd, Iran, with a deep inte
 [![Email](https://img.shields.io/badge/Email-soheilmirjalili80@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soheilmirjalili80@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
----
 
-**⚡ Fun fact:** I love turning ideas into embedded systems! 🚀
-
----
-
-*Last Updated: June 2025*
