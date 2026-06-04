@@ -13,9 +13,11 @@ I'm a passionate **Embedded Systems Engineer** from Yazd, Iran, with a deep inte
 
 ## 🛠️ Technical Skills
 
-### **Microcontrollers & Platforms**
+### **Hardware**
 ![STM32](https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Spartan 6 FPGA](https://img.shields.io/badge/Spartan_6_FPGA-005A9C?style=for-the-badge)
+![Xilinx](https://img.shields.io/badge/Xilinx-FPGA-E01B22?style=for-the-badge)
 
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
