@@ -1,13 +1,13 @@
 # 💫 About Me
 Hi, I'm **Soheil Mirjalili**! 👋
 
-I'm a passionate **Embedded Systems Engineer** from Yazd, Iran, with a deep interest in digital electronics and embedded systems development.
+I'm a **Embedded Systems Engineer** from Yazd, Iran, with a deep interest in digital electronics and embedded systems development.
 
 ## 💼 Work Experience
-- R&D Department Supervisor
-- STM32 microcontroller programming and development
+- R&D Department 
+- STM32 & ESP32 microcontroller programming and development
 - Industrial embedded systems design
-- Environmental monitoring sensors (temperature, humidity, pressure, oxygen, gas)
+- Environmental monitoring sensors 
 - Hardware and software debugging
 - Sensor calibration and integration
 
